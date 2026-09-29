@@ -1,0 +1,1 @@
+console.log("Gayatri Patil Portfolio Website Loaded Successfully!");
